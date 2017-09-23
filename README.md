@@ -26,4 +26,7 @@ Under *Source*, select the Master branch, and save your changes. After a few min
 In your repo, the code for your website is in the *index.html* file. Open it up and copy and paste a project from Dash into the file. You can add more pages to your website - just make sure the file containing the code for the new page ends in ".html". TO navigate to these other pages, just add the filename to the URL found in the *Settings* page. For example, if you created a new 
 *.html* file called *Links*, you can find this page on the web at https://yourGitHubusername.github.io/BuildYourWebsite/links.html.
 
+## Step 5 - Just Add Java
+Projects 5 & 6 on [Dash](dash.generalassemb.ly) deal with Javascript and jQuery. Once you've completed these tutorials, you can start adding these to your site! You can find tutorials for [jQuery](https://www.codecademy.com/courses/web-beginner-en-bay3D/0/1) and [Javascript](https://www.codecademy.com/learn/introduction-to-javascript) on [codecademy](codecademy.com).
+
 
